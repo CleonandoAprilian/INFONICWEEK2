@@ -1,0 +1,4 @@
+Nama: Naila Fadhila
+NIM: 25106050083 
+Rangkuman 
+Figma adalah aplikasi desain berbasis web yang berfungsi untuk merancang tampilan antarmuka (UI), pengalaman pengguna (UX), hingga membuat prototipe interaktif. Keunggulan utamanya terletak pada kolaborasi daring, di mana beberapa pengguna bisa bekerja pada satu file desain secara bersamaan tanpa perlu mengirim dokumen bolak-balik. Figma menyediakan berbagai fitur pendukung seperti sistem komponen, integrasi plugin, dan akses lintas perangkat. Karena kemudahan serta fleksibilitasnya, Figma kini banyak digunakan oleh desainer, developer, hingga tim produk dalam mengembangkan solusi digital secara efisien.
